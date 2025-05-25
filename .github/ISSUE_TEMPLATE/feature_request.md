@@ -7,31 +7,31 @@ labels: [feature request, needs discussion]
 
 ## Feature Request Summary
 
-Describe the feature or idea you’d like to propose. This can be a rough concept or a problem you’d like to solve.
+_Describe the feature or idea you’d like to propose. This can be a rough concept or a problem you’d like to solve._
 
 ---
 
 ## Motivation
 
-Why do you think this feature could be valuable? What problem or need does it address?
+_Why do you think this feature could be valuable? What problem or need does it address?_
 
 ---
 
 ## Open Questions
 
-Are there any uncertainties or aspects you’d like feedback on? List any specific questions for the team or community here.
+_Are there any uncertainties or aspects you’d like feedback on? List any specific questions for the team or community here._
 
 ---
 
 ## Possible Approaches
 
-If you have any ideas for how this could be implemented, list them here. This can be high-level or just initial thoughts.
+_If you have any ideas for how this could be implemented, list them here. This can be high-level or just initial thoughts._
 
 ---
 
 ## Additional Context
 
-Add any other relevant information, references, links, or mockups. (Optional)
+_Add any other relevant information, references, links, or mockups. (Optional)_
 
 ---
 

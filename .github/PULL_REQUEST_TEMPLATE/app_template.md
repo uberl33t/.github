@@ -1,6 +1,6 @@
 ## Description
 
-Describe the changes you have made. Include the motivation and context for your changes. Link any related issues.
+_Describe the changes you have made. Include the motivation and context for your changes. Link any related issues._
 
 ---
 
@@ -24,10 +24,10 @@ Describe the changes you have made. Include the motivation and context for your 
 
 ## Screenshots / Recordings
 
-If applicable, add screenshots or screen recordings to demonstrate the change.
+_If applicable, add screenshots or screen recordings to demonstrate the change._
 
 ---
 
 ## Additional Notes
 
-Add any other relevant information, caveats, or special considerations for reviewers.
+_Add any other relevant information, caveats, or special considerations for reviewers._
