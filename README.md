@@ -1,6 +1,6 @@
 # Organization-wide `.github` Repository
 
-This repository contains **shared GitHub community health files** for all repositories in the [ORG_NAME](https://github.com/ORG_NAME) organization.
+This repository contains **shared GitHub community health files** for all repositories in the [uberl33t](https://github.com/uberl33t) organization.
 
 ## Purpose
 
